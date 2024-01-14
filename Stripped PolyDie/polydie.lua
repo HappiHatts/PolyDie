@@ -681,6 +681,5 @@ function love.mousepressed(x, y, button, isTouch, presses)
 end
 local PlDie = {}
 PlDie.Internal = Internal
-PlDie.Diag = Diag
 
 return PlDie
